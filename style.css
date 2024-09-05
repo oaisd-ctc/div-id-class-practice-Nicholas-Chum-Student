@@ -1,0 +1,43 @@
+.main-box{
+    height:100px; width:100%; margin:10px; border-radius:10px; background-color:aquamarine;
+}
+
+#orange-box{
+    background-color:orange; height: 90px;
+}
+
+#red-box{
+    background-color:red; height: 85px;
+}
+
+#yellow-box{
+    background-color:yellow; height: 80px;
+}
+
+#green-box{
+    background-color:green; height: 75px;
+}
+
+#blue-box{
+    background-color:blue; height: 70px;
+}
+
+#aqua-box{
+    background-color:aqua; height: 65px;
+}
+
+#purple-box{
+    background-color:purple; height: 60px;
+}
+
+#violet-box{
+    background-color:violet; height: 55px;
+}
+
+#black-box{
+    background-color:black; height: 50px;
+}
+
+#greenyellow-box{
+    background-color:greenyellow; height: 45px;
+}
